@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Aryan Pagal Hai" />
+        <Header title="Boring..." />
         
       </main>
 
