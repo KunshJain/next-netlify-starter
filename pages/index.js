@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Boring..." />
+        <Header title="Premium Dost Free-Trial" />
         
       </main>
 
